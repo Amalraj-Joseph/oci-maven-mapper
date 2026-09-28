@@ -1,6 +1,7 @@
 {
   "/com/ibm/ws/jakarta.ws.rs-api/2.1.4/jakarta.ws.rs-api-2.1.4.jar": {
     "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "v1",
     "digest": "sha256:34e0126f824f65dae832797f9d2261162e8fd3f411ba0363026ade737de74365"
   }
 }
