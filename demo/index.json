@@ -3,5 +3,30 @@
     "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
     "reference": "v1",
     "digest": "sha256:34e0126f824f65dae832797f9d2261162e8fd3f411ba0363026ade737de74365"
-  }
+  },
+  "/com/ibm/ws/jakarta.ws.rs-api/2.1.4/jakarta.ws.rs-api-2.1.4.jar.md5": {
+    "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "jar.md5",
+    "digest": "sha256:59b53855a8c702e482568856e7f2393390ecbfaa147922fa4d4471d70f5b40d1"
+  },
+  "/com/ibm/ws/jakarta.ws.rs-api/2.1.4/jakarta.ws.rs-api-2.1.4.jar.sha1": {
+    "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "jar.sha1",
+    "digest": "sha256:3001544fc9a717f0043ff1329b66eb9913ed72fb3e1c9530db370b12fe10fbb3"
+  },
+  "/com/ibm/ws/jakarta.ws.rs-api/2.1.4/jakarta.ws.rs-api-2.1.4.pom.sha1": {
+    "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "pom.sha1",
+    "digest": "sha256:55f3e63190623bdd6fea26910ffacb325cc373900fbdf1f754bb1984bf150a19"
+  },
+  "/com/ibm/ws/jakarta.ws.rs-api/2.1.4/jakarta.ws.rs-api-2.1.4.pom.md5": {
+    "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "pom.md5",
+    "digest": "sha256:0a505bf7c3fcfb886bc530b0bf0f925aecb6a2fda72af870c60ab36611672ec5"
+  },
+  "/com/ibm/ws/jakarta.ws.rs-api/2.1.4/jakarta.ws.rs-api-2.1.4.pom": {
+    "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "pom",
+    "digest": "sha256:f4e1b0bf91d47cfc83023a24a3df6c198008a472f8b223f381c41d69f95ef528"
+  },
 }
