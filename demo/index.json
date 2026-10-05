@@ -29,4 +29,24 @@
     "reference": "pom",
     "digest": "sha256:f4e1b0bf91d47cfc83023a24a3df6c198008a472f8b223f381c41d69f95ef528"
   },
+  "/com/ibm/ws/fixes/25.0.0.9/IFPH67833-25.0.0.9.pom": {
+    "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "IFPH67833.pom",
+    "digest": "sha256:a87125a277a536788aadafd1753ee3a59a20ff72f0a364c10cd1851a4514b105"
+  },
+  "/com/ibm/ws/fixes/25.0.0.9/IFPH67833-25.0.0.9.pom.sha1": {
+    "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "IFPH67833.pom.sha1",
+    "digest": "sha256:3357c856ea5659ee2574424f0d84d49f3603367f76415c515745825e50a9d1b8"
+  },
+  "/com/ibm/ws/fixes/25.0.0.9/IFPH67833-25.0.0.9.jar.sha1": {
+    "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "IFPH67833.jar.sha1",
+    "digest": "sha256:415fc556facb72eabd72b0547eea017635153f774d35e511572744d2deb89a51"
+  },
+   "/com/ibm/ws/fixes/25.0.0.9/IFPH67833-25.0.0.9.jar": {
+    "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
+    "reference": "IFPH67833.jar",
+    "digest": "sha256:37c72e7894147f22e5fc9ef503cca9c3ce37068f87fd93ad47720628e8e7d97e"
+  }
 }
